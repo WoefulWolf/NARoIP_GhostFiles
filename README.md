@@ -2,7 +2,7 @@
 Repository containing the official speedrunning .ghost files for NARoIP.
 
 ## ghostfile.idx Format
-`<Name/Description>,<DownloadURL>`
+`<Name>#<Description>#<DownloadURL>`
 
 ## Getting the Download URL
 * Go to the `speedruns` folder.
